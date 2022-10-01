@@ -41,4 +41,5 @@ object test extends App{
   println("number of rows with different values in source and destination: "+diffCnt.count())
 
   println("Commit1")
+  println("Commit2")
 }
