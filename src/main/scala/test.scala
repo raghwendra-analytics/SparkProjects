@@ -40,4 +40,6 @@ object test extends App{
     && cvd_state("cases")!=cvd_dest("cases") && cvd_state("deaths")!=cvd_dest("deaths"))
   println("number of rows with different values in source and destination: "+diffCnt.count())
 
+  println("2nd commit after adding test file")
+
 }
